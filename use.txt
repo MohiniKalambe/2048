@@ -1,0 +1,4 @@
+To run the programme type ./project .
+Then use arrow keys to move tiles.
+Escape to exit the game.
+Backspace to start the game again.
