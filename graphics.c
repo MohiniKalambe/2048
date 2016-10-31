@@ -95,7 +95,7 @@ int win(int* a[],int n){
 	int i, j;
 	for(i = 0; i < n; i++){
                 for(j = 0; j < n; j++){
-			if(a[i][j] == 126 && n == 3)
+			if(a[i][j] == 1024 && n == 3)
 				return 1;
 			else if(a[i][j] == 2048 && n == 4)
 				return 1;
